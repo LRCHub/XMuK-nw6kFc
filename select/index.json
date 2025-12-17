@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "薄明光線",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-17T18:05:02.302882Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "薄明光線",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_薄明光線_≠ME.txt"
+    }
+  ]
+}
